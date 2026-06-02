@@ -1,16 +1,25 @@
-## Hi there 👋
+# Kulshyn | kkulshyn
 
-<!--
-**kkulshyn/kkulshyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer in training. Almaty, Kazakhstan.
+Started at 14. Playing the long game.
 
-Here are some ideas to get you started:
+## Goal
+AI model development and training.
+Hackathon competitor by 16.
+Job ready by 17.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Python (foundations)
+- Mathematics for ML
+- How large language models actually work
+
+## First Project
+Cross-border e-commerce automation tool —
+real problem, real code, no tutorials.
+
+## Languages
+- Kazakh / Russian (native)
+- English (C1)
+
+---
+"Almaty, June 2026."
