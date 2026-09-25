@@ -1,25 +1,31 @@
-# Kulshyn | kkulshyn
+# Kulshyn K. | kkulshyn
 
-AI Engineer in training. Almaty, Kazakhstan.
-Started at 14. Playing the long game.
+AI Engineering. Almaty, Kazakhstan.
+Started at 14. 
 
 ## Goal
-AI model development and training.
-Hackathon competitor by 16.
-Job ready by 17.
+Setting a new software & hardware standart in BJJ and golf industry
+Hitting 10k$ mrr by 15
+Invent
 
 ## Currently Learning
-- Python (foundations)
-- Mathematics for ML
-- How large language models actually work
+- Javascript
+- Business
+- Automatization
+- Marketing
 
 ## First Project
-Cross-border e-commerce automation tool —
-real problem, real code, no tutorials.
-
+opbjj.com
+## Second Project
+split ai 
+## Third Project
+Cofind.live
 ## Languages
-- Kazakh / Russian (native)
-- English (C1)
+- Kazakh Native
+- English Native
+- Russian Native
+- German B1
+- Spanish B1
 
 ---
 "Almaty, June 2026."
